@@ -97,3 +97,5 @@ Usage Guide:
 - Appointments: Schedule and manage medical appointments
 - Settings: Customize notifications, themes, and data preferences
 # My_Med_Buddy
+# decentrallized.app
+# My_MedBuddy
